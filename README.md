@@ -111,6 +111,7 @@ A meticulously curated, beginner-to-advanced learning path with **50+ free resou
 - [Official IELTS Practice Materials – IDP](https://www.ieltsessentials.com/global/prepare)  
 - [Cambridge IELTS Sample Papers (Official)](https://www.cambridgeenglish.org/learning-english/exams/ielts/)  
 - [IELTS Mock Tests – Magoosh](https://magoosh.com/ielts/ielts-practice-tests/)  
+- [ParrotTalk – Free full IELTS Academic mock tests with AI scoring and feedback (Listening, Reading, Writing, Speaking)](https://www.parrottalk.app)  
 
 ---
 
